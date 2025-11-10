@@ -1,7 +1,7 @@
 
 # **Deploy a React Application on Ubuntu VM with Nginx**
 
-This guide provides step-by-step instructions to deploy and run a **This React application** on an **Ubuntu VM** using **Nginx**, making it accessible from a **public IP**.
+This project provides step-by-step instructions to deploy and run a **This React application** on an **Ubuntu VM** using **Nginx**, making it accessible from a **public IP**.
 
 ---
 
@@ -152,13 +152,13 @@ Retrieve the **public IP** of your Ubuntu VM:
 curl ifconfig.me
 ```
 
-Now, students can **access the React application** in a browser using:  
+Now, you can **access the React application** in a browser using:  
 
 ```
 http://<your-public-ip>
 ```
 
-For example, if the public IP is **203.0.113.25**, visit:  
+For example, if the public IP is **3.230.143.236**, visit:  
 
 ```
 http://3.230.143.236
