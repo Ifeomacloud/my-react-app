@@ -1,5 +1,5 @@
 
-# **Deploy a React Application on Ubuntu VM with Nginx**
+# **Deployment of a React Application on Ubuntu VM with Nginx**
 
 This project provides step-by-step instructions to deploy and run a **This React application** on an **Ubuntu VM** using **Nginx**, making it accessible from a **public IP**.
 
